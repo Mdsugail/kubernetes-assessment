@@ -11,14 +11,11 @@ This folder contains the **GoLang Web Application**, containerized using **Docke
 
 | **Kubernetes Deployment** | **Service Exposure (Ngrok)** |
 |-------------------------|--------------------------|
-| ![Local App](![kubernetes-Integeration](https://github.com/user-attachments/assets/c774638c-ede2-417f-9821-82fcfd97f464)
-) | ![Kubernetes Deployment](![ngrok deplying](https://github.com/user-attachments/assets/a02d4486-4eae-4a7d-8719-7136dbbe747b)
-) |
+| ![Local App](![kubernetes-Integeration](https://github.com/user-attachments/assets/c774638c-ede2-417f-9821-82fcfd97f464)) | [KubernetesDeployment](![ngrok deplying](https://github.com/user-attachments/assets/a02d4486-4eae-4a7d-8719-7136dbbe747b)) |
 
 | **App running Locally** |
 |------------------------------|
-| ![Ngrok Exposure](![output](https://github.com/user-attachments/assets/8af055c7-39a1-44c1-b131-6a1606ce5227)
-) |
+| ![Ngrok Exposure](![output](https://github.com/user-attachments/assets/8af055c7-39a1-44c1-b131-6a1606ce5227)) |
 
 ---
 
