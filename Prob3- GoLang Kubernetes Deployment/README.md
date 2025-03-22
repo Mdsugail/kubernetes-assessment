@@ -10,12 +10,12 @@ This folder contains the **GoLang Web Application**, containerized using **Docke
 ## 📌 Deployment Architecture
 
 | **Kubernetes Deployment** | **Service Exposure (Ngrok)** |
-|-------------------------|--------------------------|
-| ![Local App](![kubernetes-Integeration](https://github.com/user-attachments/assets/c774638c-ede2-417f-9821-82fcfd97f464)) | [KubernetesDeployment](![ngrok deplying](https://github.com/user-attachments/assets/a02d4486-4eae-4a7d-8719-7136dbbe747b)) |
+|---------------------------|-----------------------------|
+| ![Kubernetes Deployment](https://github.com/user-attachments/assets/c774638c-ede2-417f-9821-82fcfd97f464) | ![Ngrok Deployment](https://github.com/user-attachments/assets/a02d4486-4eae-4a7d-8719-7136dbbe747b) |
 
-| **App running Locally** |
-|------------------------------|
-| ![Ngrok Exposure](![output](https://github.com/user-attachments/assets/8af055c7-39a1-44c1-b131-6a1606ce5227)) |
+| **App Running Locally** |
+|-------------------------|
+| ![Local Output](https://github.com/user-attachments/assets/8af055c7-39a1-44c1-b131-6a1606ce5227) |
 
 ---
 
@@ -24,7 +24,6 @@ This folder contains the **GoLang Web Application**, containerized using **Docke
 - `Dockerfile` - Containerization Configuration.
 - `deployment.yaml` - Kubernetes Deployment Configuration.
 - `service.yaml` - Kubernetes Service Configuration.
-- `Images` -  Images displaying
 
 ---
 
@@ -51,23 +50,6 @@ func main() {
     http.ListenAndServe(":8080", nil)
 }
 
-### 📌 **Step-by-Step Implementation**
-
-#### **1️⃣ Create GoLang Web App (`main.go`)**
-```go
-package main
-import (
-    "fmt"
-    "net/http"
-    "time"
-)
-func handler(w http.ResponseWriter, r *http.Request) {
-    fmt.Fprintf(w, "Current Time: %s", time.Now().Format(time.RFC1123))
-}
-func main() {
-    http.HandleFunc("/", handler)
-    http.ListenAndServe(":8080", nil)
-}
 ```
 
 #### **2️⃣ Create Dockerfile**
