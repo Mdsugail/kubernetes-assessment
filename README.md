@@ -8,12 +8,13 @@ Welcome to the **Kubernetes Security & Deployment Project!** This repository doc
 This project consists of **three problem statements**, covering various aspects of **Kubernetes security, DevOps, and cloud-native application deployment**:
 
 1️⃣ **Product Requirement Document (PRD) & Wireframes** - Defining and designing a **Container Image Vulnerability Scanner**.
+
 2️⃣ **Kubernetes Security Scan** - Scanning Kubernetes clusters for security vulnerabilities using **Kubescape**.
+
 3️⃣ **GoLang Kubernetes Deployment** - Deploying a **GoLang web application** on Kubernetes and exposing it publicly.
 
 Each section provides a **detailed step-by-step implementation guide** with necessary commands and configurations.
 
----
 
 # 1️⃣ **Product Requirements Document (PRD) & Wireframes**
 
@@ -32,7 +33,6 @@ Each section provides a **detailed step-by-step implementation guide** with nece
 📂 `PRD.md` - A structured document defining features, workflows, and goals.  
 📂 `Wireframes/` - Folder containing UI mockups and design elements.  
 
----
 
 # 2️⃣ **Kubernetes Security Scan**
 
@@ -69,7 +69,6 @@ Move-Item results.json D:\projects\Accuknox-kubernetes-asset\Prob2-Kubernetes-Se
 ### 📌 **Deliverables**
 📂 `results.json` - JSON file with security scan findings.  
 
----
 
 # 3️⃣ **GoLang Kubernetes Deployment**
 
