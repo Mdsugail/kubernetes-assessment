@@ -2,9 +2,6 @@
 
 ## 📌 Overview
 This folder contains the **GoLang Web Application**, containerized using **Docker**, deployed on **Kubernetes**, and exposed to the internet.
-
-📄 **[View Live Deployment](#)** (Replace with actual public URL)
-
 ---
 
 ## 📌 Deployment Architecture
