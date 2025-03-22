@@ -32,6 +32,7 @@ Each section provides a **detailed step-by-step implementation guide** with nece
 ### 📌 **Deliverables**
 📂 `PRD.md` - A structured document defining features, workflows, and goals.  
 📂 `Wireframes` -  UI/ - UI design images.
+
 📂 `Notion` - Notion link for PRD.DOCX.
 
 # 2️⃣ **Kubernetes Security Scan**
@@ -68,6 +69,7 @@ Move-Item results.json D:\projects\Accuknox-kubernetes-asset\Prob2-Kubernetes-Se
 
 ### 📌 **Deliverables**
 📂 `results.json` - JSON file with security scan findings. 
+
 📂 `Images` -  Images displaying scan results.
 
 
@@ -168,6 +170,7 @@ ingrok http 32382  # Replace with actual port from Minikube
 📂 `deployment.yaml` - Kubernetes Deployment File.  
 📂 `service.yaml` - Kubernetes Service File.  
 📂 `Ngrok URL` - Publicly accessible link.  
+
 📂 `Images` - Images .
 
 ---
