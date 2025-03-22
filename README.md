@@ -31,8 +31,8 @@ Each section provides a **detailed step-by-step implementation guide** with nece
 
 ### 📌 **Deliverables**
 📂 `PRD.md` - A structured document defining features, workflows, and goals.  
-📂 `Wireframes/` - Folder containing UI mockups and design elements.  
-
+📂 `Wireframes` -  UI/ - UI design images.
+📂 `Notion` - Notion link for PRD.DOCX.
 
 # 2️⃣ **Kubernetes Security Scan**
 
@@ -67,7 +67,8 @@ Move-Item results.json D:\projects\Accuknox-kubernetes-asset\Prob2-Kubernetes-Se
 ```
 
 ### 📌 **Deliverables**
-📂 `results.json` - JSON file with security scan findings.  
+📂 `results.json` - JSON file with security scan findings. 
+📂 `Images` -  Images displaying scan results.
 
 
 # 3️⃣ **GoLang Kubernetes Deployment**
@@ -167,29 +168,7 @@ ingrok http 32382  # Replace with actual port from Minikube
 📂 `deployment.yaml` - Kubernetes Deployment File.  
 📂 `service.yaml` - Kubernetes Service File.  
 📂 `Ngrok URL` - Publicly accessible link.  
-
----
-
-# 📌 **GitHub Submission Guide**
-
-### **1️⃣ Upload Everything to GitHub**
-```sh
-git add .
-git commit -m "Added all Kubernetes assessment files"
-git push origin main
-```
-
-### **2️⃣ Final Submission**
-Submit your GitHub repository link:  
-📎 **`https://github.com/your-username/kubernetes-assessment`**
-
----
-
-# ✅ **Project Completion Checklist**
-✔ **Problem 1:** PRD Document & Wireframes Uploaded  
-✔ **Problem 2:** Kubernetes Security Scan & `results.json` Generated  
-✔ **Problem 3:** GoLang Kubernetes Deployment Completed & Public URL Available  
-✔ **GitHub Repository Submitted**  
+📂 `Images` - Images .
 
 ---
 
