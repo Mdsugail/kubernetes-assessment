@@ -3,7 +3,7 @@
 ## 📌 Overview
 This folder contains the **Kubernetes Security Scan findings**, generated using **Kubescape** to assess security vulnerabilities in the cluster.
 
-📄 **[View Security Scan Report](#)**
+📄 **[View Security Scan Report](https://github.com/Mdsugail/kubernetes-assessment/blob/1be56e794d4b11a62c14a2a80a1ff7d574815631/Prob2-%20Kubernetes%20Security%20Scan/results.json)**
 
 ---
 
@@ -62,9 +62,12 @@ kubectl get nodes
 ✅ Provide the GitHub link where the JSON file is stored.
 
 ✅ Project Completion Checklist
-✔ Kubescape installed successfully
+✔ Kubescape installed successfully 
+
 ✔ Security scan executed, JSON report generated
+
 ✔ Findings reviewed & stored in results.json
+
 ✔ Report submitted as per assessment requirements
 
 🚀 Now, your Kubernetes security is complete! 💯
