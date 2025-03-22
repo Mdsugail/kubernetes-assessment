@@ -24,6 +24,7 @@ This folder contains the **GoLang Web Application**, containerized using **Docke
 - `Dockerfile` - Containerization Configuration.
 - `deployment.yaml` - Kubernetes Deployment Configuration.
 - `service.yaml` - Kubernetes Service Configuration.
+- `Images` - Screenshots.
 
 ---
 
