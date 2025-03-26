@@ -10,10 +10,10 @@ This folder contains the **GoLang Web Application**, containerized using **Docke
 |---------------------------|-----------------------------|
 | ![Kubernetes Deployment](https://github.com/user-attachments/assets/c774638c-ede2-417f-9821-82fcfd97f464) | ![Ngrok Deployment](https://github.com/user-attachments/assets/a02d4486-4eae-4a7d-8719-7136dbbe747b) |
 
-| **App Running Locally** |
-|-------------------------|
-| ![Local Output](https://github.com/user-attachments/assets/8af055c7-39a1-44c1-b131-6a1606ce5227) |
-
+| **App Running Locally** | **Docker Deployed** | 
+|-------------------------|-----------------------|
+| ![Local Output](https://github.com/user-attachments/assets/8af055c7-39a1-44c1-b131-6a1606ce5227) |  (![Docker Deployment](https://github.com/user-attachments/assets/c42c64a2-a0b0-40cd-91c6-3c464c2a708c)
+)
 ---
 
 ## 📂 Files Included
